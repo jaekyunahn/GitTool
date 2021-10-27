@@ -1,0 +1,10 @@
+D:\Project\C#\gittool\gittool\bin\Debug\gittool.exe.config
+D:\Project\C#\gittool\gittool\bin\Debug\gittool.exe
+D:\Project\C#\gittool\gittool\bin\Debug\gittool.pdb
+D:\Project\C#\gittool\gittool\obj\Debug\gittool.csproj.AssemblyReference.cache
+D:\Project\C#\gittool\gittool\obj\Debug\gittool.FormMain.resources
+D:\Project\C#\gittool\gittool\obj\Debug\gittool.Properties.Resources.resources
+D:\Project\C#\gittool\gittool\obj\Debug\gittool.csproj.GenerateResource.cache
+D:\Project\C#\gittool\gittool\obj\Debug\gittool.csproj.CoreCompileInputs.cache
+D:\Project\C#\gittool\gittool\obj\Debug\gittool.exe
+D:\Project\C#\gittool\gittool\obj\Debug\gittool.pdb
